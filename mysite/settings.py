@@ -25,7 +25,7 @@ SECRET_KEY = 'pc%wu&gfm=(&_2z-a6!3f^wq)$@@g@li#@y4p-l8bxuab+57tr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'zifeif2.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'zifeifeng.pythonanywhere.com']
 
 
 # Application definition
